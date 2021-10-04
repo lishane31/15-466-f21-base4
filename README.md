@@ -1,10 +1,10 @@
-# (TODO: your game's title)
+# Sad unfinished game
 
-Author: (TODO: your name)
+Author: Siheng
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Some sort of choice game similar to traditional card builders but with ascii art characters
 
-Text Drawing: (TODO: how does the text drawing in this game work? Is text precomputed? Rendered at runtime? What files or utilities are involved?)
+Text Drawing: Not completed
 
 Screen Shot:
 
@@ -12,9 +12,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Couldn't complete a game this week, had a lot going on and just needed some time back :'(
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: None
 
 This game was built with [NEST](NEST.md).
 
